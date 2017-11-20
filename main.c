@@ -18,7 +18,7 @@
 int main() {
     
     int marks[5], total = 0, avg = 0, i;
-    printf("Enter your 5 subject makes \n");
+    printf("Enter your 5 subject marks \n");
     
     for (i=0; i<5; i++) {
         scanf("%d ",&marks[i]);
